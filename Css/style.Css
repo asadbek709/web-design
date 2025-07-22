@@ -87,11 +87,11 @@ header nav ul li a {
 
 .banner .title p {
     font-family: "Rubik", sans-serif;
+    text-align: justify;
     font-weight: 400;
     font-size: 17px;
     line-height: 100%;
     margin: 42px 0;
-    text-align: justify;
 
 }
 
